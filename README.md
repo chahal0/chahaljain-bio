@@ -29,9 +29,6 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahal0&show_icons=true&locale=en" alt="chahal0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahal0&" alt="chahal0" /></p>
-
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahal0&" alt="chahal0" /></p>
