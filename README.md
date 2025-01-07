@@ -1,12 +1,12 @@
 
-Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web Development and community building .
-
 
 
 
 
 <h1 align="center">Hi 👋, I'm   Chahal Jain </h1>
 <h3 align="center">A passionate frontend developer </h3>
+
+Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web Development and community building .
 
 ## 🚀 Skills
 
