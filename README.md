@@ -1,11 +1,12 @@
-# chahaljain-bio
-
-
-### Hi there 👋
-
 
 Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web Development and community building .
 
+
+
+
+
+<h1 align="center">Hi 👋, I'm   Chahal Jain </h1>
+<h3 align="center">A passionate frontend developer </h3>
 
 ## 🚀 Skills
 
@@ -13,11 +14,7 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
 - Tools & Technologies: Figma, Blender, Canva
 
 
-
-<h1 align="center">Hi 👋, I'm   Chahal Jain </h1>
-<h3 align="center">A passionate frontend developer </h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-pushkar" alt="khushi-pushkar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chahal0" alt="chahal0 " /></a> </p>
 
 - 📫 How to reach me **chahaljain0302@gmail.com**
 
