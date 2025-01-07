@@ -6,20 +6,11 @@
 
 Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web Development and community building .
 
-## 🌐 About Me
 
-- 👯 Looking to collaborate on frontend projects.
-
-- 📫 How to reach me: chahaljain0302@gmail.com
-- 
 ## 🚀 Skills
 
 - Programming Languages: C++, Html, CSS, Javascript, React.js, Node.js, Vite
 - Tools & Technologies: Figma, Blender, Canva
-
-
-
-Let's connect and build awesome things together! 🌈
 
 
 
@@ -32,7 +23,7 @@ Let's connect and build awesome things together! 🌈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-pushkar-9029b8287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-pushkar-9029b8287/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://in/chahal-jain-914434279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-pushkar-9029b8287/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/k.shambhavi1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/k.shambhavi1/" height="30" width="40" /></a>
 </p>
 
