@@ -8,10 +8,8 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
 
 ## 🌐 About Me
 
-- 🔭 Currently working on a project for hackathon.
-- 🌱 Learning Backend Development.
 - 👯 Looking to collaborate on frontend projects.
-- 💬 Ask me about anything.
+
 - 📫 How to reach me: chahaljain0302@gmail.com
 - 
 ## 🚀 Skills
@@ -19,21 +17,18 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
 - Programming Languages: C++, Html, CSS, Javascript, React.js, Node.js, Vite
 - Tools & Technologies: Figma, Blender, Canva
 
-## 🌟 Fun Facts
 
-- 🎵 I love Honey Singh raps.
-- 📚 Reading Annie Frank.
 
 Let's connect and build awesome things together! 🌈
 
 
 
-<h1 align="center">Hi 👋, I'm Khushi Pushkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm   Chahal Jain </h1>
+<h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-pushkar" alt="khushi-pushkar" /></a> </p>
 
-- 📫 How to reach me **khushipushkar.kp@gmail.com**
+- 📫 How to reach me **chahaljain0302@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
