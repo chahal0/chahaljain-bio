@@ -32,6 +32,13 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahal0&" alt="chahal0" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-pushkar&show_icons=true&locale=en&layout=compact" alt="khushi-pushkar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-pushkar&show_icons=true&locale=en" alt="khushi-pushkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-pushkar&" alt="khushi-pushkar" /></p>
+
+
 
 
 
